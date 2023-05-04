@@ -19,8 +19,8 @@
 <a href="https://www.linkedin.com/in/rawan-haj-yahya/" target="_blank"><img src="https://img.shields.io/badge/-Rawan%Haj%20Yahya-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
-![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=javascript)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter&logoColor=563D7C)&nbsp;
 
 
 
